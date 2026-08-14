@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+[LogiSheets](https://github.com/logisky/LogiSheets) - An advanced spreadsheet application whose engine is written in Rust.
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
